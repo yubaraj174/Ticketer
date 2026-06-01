@@ -1,5 +1,7 @@
 # Stellar Ticketing NFT Platform
 
+**Deployed Contract:** [CA6EH6PHKXF2MC6R5SPTCCRYDSBXNIHYANL7NP7VIHCQU476F5JKXVXS](https://stellar.expert/explorer/testnet/contract/CA6EH6PHKXF2MC6R5SPTCCRYDSBXNIHYANL7NP7VIHCQU476F5JKXVXS)
+
 This project is a decentralized application (dApp) built on the Stellar network that enables organizers to mint fixed supplies of non-fungible ticket tokens to represent event seats. Buyers can purchase tickets directly from the contract via native XLM, transfer them peer-to-peer securely, and the event organizer has an administrative tool to scan/invalidate these tickets during admission.
 
 ## Tech Stack
