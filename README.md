@@ -92,7 +92,7 @@ _(The native token passed above is the standard Testnet XLM token SAC address. P
 ## Step 4 — Install Frontend Dependencies
 
 ```bash
-cd ../frontend
+frontend
 npm install
 ```
 
